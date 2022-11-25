@@ -105,3 +105,5 @@ https://gb.ru/
 `:smiley:`
 
 `:simple_smile:`
+
+## Основные команды 3 семинара
